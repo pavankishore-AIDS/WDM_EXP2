@@ -96,13 +96,15 @@ middle, high, B
 8) Click on edit button which shows buying table on weka.
 ### OUTPUT:
 #### Buying Table:
-![](1.PNG)
+![w1](https://github.com/pavankishore-AIDS/WDM_EXP2/assets/94154941/6b2cc559-6d52-4e73-912d-b9238de9e412)
 
 #### Banking Table:
-![](3.PNG)
+![w2](https://github.com/pavankishore-AIDS/WDM_EXP2/assets/94154941/7d9ee19a-d5d3-4ed1-afe3-d856301cddb7)
+
 
 #### Employee Table:
-![](5.PNG)
+![w3](https://github.com/pavankishore-AIDS/WDM_EXP2/assets/94154941/b1de4d7a-61dd-4c64-abc0-87dd5937b8ba)
+
 
 ### Procedure for Association Rules:
 1) Open Start -> Programs -> Accessories -> Notepad
@@ -114,13 +116,14 @@ middle, high, B
 
 ### OUTPUT:
 #### Buying Table:
-![](2.PNG)
+![w4](https://github.com/pavankishore-AIDS/WDM_EXP2/assets/94154941/eb1a534b-3935-44b4-8946-29d2f0b92388)
+
 
 #### Banking Table:
-![](4.PNG)
+![w5](https://github.com/pavankishore-AIDS/WDM_EXP2/assets/94154941/b17dcde9-483c-4224-93d3-b3a06cb46287)
 
 #### Employee Table:
-![](6.PNG)
+![w6](https://github.com/pavankishore-AIDS/WDM_EXP2/assets/94154941/0a8cc32b-c0c4-43ac-86e5-2cadf2efd91b)
 
 ### RESULT: 
 Thus, generation of association rules using apriori algorithm is executed succesfully.
